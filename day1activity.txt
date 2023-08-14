@@ -1,0 +1,20 @@
+Day 1:
+
+1. Use the reference of YouTube[YT] : 
+
+S1 : A new user account is created in Gmail/YT
+S2 : The user logs in to YT using the account
+S3 : Create a subscription service in YT
+S4 : User :: Create a channel
+S5 :: user --> channel --> uploads a video
+
+What are the publish + subscribe services that will be utilized?
+
+Activity 1  :
+Login database 
+Security Service 
+Subscription Service 
+Notification Service 
+Content Database
+Advertisement Service 
+Time Line service 
