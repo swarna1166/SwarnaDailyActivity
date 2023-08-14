@@ -1,0 +1,12 @@
+1. Refer FB + LinkedIn API's :: Try some of the API's in Postman
+
+- Which API referred
+- What did you understand from the API's
+- What are the parameters + endpoints
+- What are the business utlities of the API's 
+
+Activity 2 :
+1.Linkedin
+2.API’s are used to perform operation between a set of components using some rules and protocols.
+3.Parameters are Feeds/, mynetwork/Jobs/ etc Endpoints are the Contents that are fetched from that parameter.
+4.APIs let your product or service communicate with other products and services without having to know how they're implemented.
