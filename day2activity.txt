@@ -10,3 +10,19 @@ Activity 2 :
 2.API’s are used to perform operation between a set of components using some rules and protocols.
 3.Parameters are Feeds/, mynetwork/Jobs/ etc Endpoints are the Contents that are fetched from that parameter.
 4.APIs let your product or service communicate with other products and services without having to know how they're implemented.
+
+ENDPOINTS:
+Read and explain : What is an endpoint [NOT API endpoints --> Queue endpoint + topic endpoint]
+A queue and a topic endpoint are both types of endpoints that can persist messages on an event broker. The main difference is that a queue can have multiple consumers and multiple subscriptions, while a topic endpoint can have only one consumer and one subscription. A queue allows processing of a message by a single consumer, while a topic endpoint allows processing of a message by multiple consumers in a publish and subscribe pattern. A topic endpoint may be better if you want to filter messages earlier and not save them to the endpoint.
+
+What is High Availability Architecture? what happens in High Availability Architecture?
+
+High Availability Architecture is a system design that ensures continuous availability and accessibility of service operation, even in the event of failures or peak-time loads12. In High Availability Architecture, there are different components, modules, or services that work together to maintain optimal performance and recover from anticipated and unexpected failures.
+
+Some of the best practices for achieving High Availability Architecture are:
+
+Load balancing: distributing the workload among multiple servers or nodes to avoid overloading and improve performance.
+Data scalability: increasing or decreasing the capacity of databases or disk storage units to meet the changing demand.
+Data synchronization: ensuring that data is consistent and up-to-date across multiple locations or devices.
+Clustering: grouping multiple servers or nodes together to provide redundancy and fault tolerance.
+Backups: creating copies of data or systems that can be restored in case of data loss or corruption.
